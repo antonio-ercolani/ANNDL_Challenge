@@ -7,6 +7,7 @@ Challenges hosted on CodaLab for the Artificial Neural Networks and Deep Learnin
 
 # Image Classification challenge
 In this challenge we were provided with a dataset of 17728 256x256 RGB photos of leaves belonging to 14 different classes:
+
 0: "Apple"
 1: "Blueberry"
 2: "Cherry"
